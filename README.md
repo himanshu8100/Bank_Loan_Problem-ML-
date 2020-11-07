@@ -10,10 +10,10 @@ When a bank receives a loan application, based on the applicant’s profile the 
 It may be assumed that the second risk is a greater risk, as the bank (or any other institution lending the money to an untrustworthy party) had a higher chance of not being paid back the borrowed amount.
 So it's on the part of the bank or other lending authority to evaluate the risks associated with lending money to a customer.
 
-#Problem Statement
+# Problem Statement
 Imagine a bank in your locality. The bank has realized that applying data science methodologies can help them focus their resources efficiently, make smarter decisions on credit risk calculations, and improve performance.
 
 Earlier they used to check the credit risk of the loan applicants manually by analyzing their bank-related data, which used to take months of time. But this time they want a smart data scientist who can automate this process.
 
-#Evaluation Criteria
+# Evaluation Criteria
 Accuracy Score is used to evaluate the model.
