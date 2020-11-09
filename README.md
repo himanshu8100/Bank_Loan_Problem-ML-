@@ -17,3 +17,6 @@ Earlier they used to check the credit risk of the loan applicants manually by an
 
 ## Evaluation Criteria
 Accuracy Score is used to evaluate the model.
+
+## Result
+Final predictions are saved in GB_prediction.csv (using gradient boost) and RF_prediction.csv(using Random Forest Regressor).
